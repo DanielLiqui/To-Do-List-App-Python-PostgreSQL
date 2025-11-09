@@ -25,9 +25,5 @@ It supports basic task management operations (CRUD) and uses environment variabl
 
 ---
 
-## ⚙️ Installation & Setup
 
-### 1️⃣ Clone the repository
-```bash
-git clone https://github.com/DanielLiqui/To-Do-List-App-Python-PostgreSQL.git
-cd To-Do-List-App-Python-PostgreSQL
+
